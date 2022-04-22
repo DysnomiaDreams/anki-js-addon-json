@@ -1,0 +1,26 @@
+name: Export JS Addons package json
+
+on: [push]
+
+env:
+  version: 'v0.0.1'
+
+jobs:
+  aarch64_job:
+    runs-on: ubuntu-20.04
+    name: Build on ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - name: Export json
+        run: |
+          python export.py
+          
+          rm output.json
+          
+          # commit changes
+          git config --global user.name github-actions
+          git config --global user.email github-actions@github.com
+
+          git add .
+          git commit -am ${{ env.version }}
+          git push
