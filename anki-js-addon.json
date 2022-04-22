@@ -1,0 +1,241 @@
+[
+    {
+        "name": "ankidroid-js-addon-cloze",
+        "addonTitle": "Cloze",
+        "version": "1.0.8",
+        "description": "Create cloze from list",
+        "main": "index.js",
+        "ankidroidJsApi": "0.0.1",
+        "addonType": "note-editor",
+        "icon": "[ ]",
+        "keywords": [
+            "ankidroid-js-addon"
+        ],
+        "author": {
+            "name": "krmanik",
+            "email": "infinyte01@gmail.com",
+            "url": "https://krmanik.github.io"
+        },
+        "license": "MIT",
+        "homepage": "https://github.com/krmanik/Anki-Custom-Card-Layout#readme",
+        "dist": {
+            "integrity": "sha512-geK2naR73Cg09DHwO3MlozBYpp2vKN/tVEdGuEq0rMO1Pbo9bnKyEEg9rEm2jbp9QwIp/Wx8UX4KAKTqxWjSTg==",
+            "shasum": "a632268a70f632041d4a30b34c6634b8c3f6e7f5",
+            "tarball": "https://registry.npmjs.org/ankidroid-js-addon-cloze/-/ankidroid-js-addon-cloze-1.0.8.tgz",
+            "unpackedSize": 18306,
+            "fileCount": 5
+        }
+    },
+    {
+        "name": "ankidroid-js-addon-dark-mode",
+        "addonTitle": "Dark Mode Reviewer",
+        "version": "1.0.4",
+        "description": "Dark mode in AnkiDroid using darkreader",
+        "main": "index.js",
+        "ankidroidJsApi": "0.0.1",
+        "addonType": "reviewer",
+        "keywords": [
+            "ankidroid-js-addon"
+        ],
+        "author": {
+            "name": "krmanik",
+            "email": "infinyte01@gmail.com",
+            "url": "https://krmanik.github.io"
+        },
+        "license": "MIT",
+        "homepage": "https://github.com/krmanik/ankidroid-js-addon#readme",
+        "dist": {
+            "integrity": "sha512-E0uDK0O7erEbvL+3FOH34f69RyC8mMi9vZ7ru1IJwQ6ewJ+Hp6HRK1k+R8XKCQ5uDRN8sMTmssxTWzCqVR0aGQ==",
+            "shasum": "17dec8226ae24a75791f5fcd4ede1781dfa5b26a",
+            "tarball": "https://registry.npmjs.org/ankidroid-js-addon-dark-mode/-/ankidroid-js-addon-dark-mode-1.0.4.tgz",
+            "unpackedSize": 79436,
+            "fileCount": 3
+        }
+    },
+    {
+        "name": "ankidroid-js-addon-progress-bar",
+        "addonTitle": "Progress Bar",
+        "version": "1.1.1",
+        "description": "Show progress bar in AnkiDroid, this package may not be used in node_modules. For using this addon view. https://github.com/ankidroid/Anki-Android/pull/9232",
+        "main": "index.js",
+        "ankidroidJsApi": "0.0.1",
+        "addonType": "reviewer",
+        "keywords": [
+            "ankidroid-js-addon"
+        ],
+        "author": {
+            "name": "krmanik",
+            "email": "infinyte01@gmail.com",
+            "url": "https://krmanik.github.io"
+        },
+        "license": "MIT",
+        "homepage": "https://github.com/krmanik/Anki-Custom-Card-Layout#readme",
+        "dist": {
+            "integrity": "sha512-vwQ+2/7ECcUxMq+/0zFsTKwiKlES/5XNRUG9JESihm0QGDZtiE3YaZPKifRymh0cOkSW+UCGsADxyzbdfUt9vw==",
+            "shasum": "217479fee9306ba175637fab6b6319421741d320",
+            "tarball": "https://registry.npmjs.org/ankidroid-js-addon-progress-bar/-/ankidroid-js-addon-progress-bar-1.1.1.tgz",
+            "unpackedSize": 4959,
+            "fileCount": 3
+        }
+    },
+    {
+        "name": "ankidroid-js-addon-asciimath",
+        "addonTitle": "Ascii Math",
+        "version": "1.0.6",
+        "description": "convert ASCII math notation and (some) LaTeX to Presentation MathML",
+        "main": "index.js",
+        "ankidroidJsApi": "0.0.1",
+        "addonType": "note-editor",
+        "icon": "\u222b",
+        "keywords": [
+            "ankidroid-js-addon"
+        ],
+        "author": {
+            "name": "krmanik",
+            "email": "infinyte01@gmail.com",
+            "url": "https://krmanik.github.io"
+        },
+        "license": "MIT",
+        "homepage": "https://github.com/krmanik/ankidroid-js-addon/tree/main/Note%20editor%20addons/ankidroid-js-addon-asciimath/package#readme",
+        "dist": {
+            "integrity": "sha512-3XsqT+6XwlbVIhHXVL5VpzDVOULT5V7lYsiP/ft+StZHIyIQRCr+GjSCvgQjJBg4KGpT0jw0NTHZVcklt/6VHQ==",
+            "shasum": "595958509a02296e94538267b7acbc687ae08c68",
+            "tarball": "https://registry.npmjs.org/ankidroid-js-addon-asciimath/-/ankidroid-js-addon-asciimath-1.0.6.tgz",
+            "unpackedSize": 50600,
+            "fileCount": 3
+        }
+    },
+    {
+        "name": "ankidroid-js-addon-dev-tools",
+        "addonTitle": "Dev Tools",
+        "version": "1.0.3",
+        "description": "Console for reviewer",
+        "main": "index.js",
+        "ankidroidJsApi": "0.0.1",
+        "addonType": "reviewer",
+        "keywords": [
+            "ankidroid-js-addon"
+        ],
+        "author": {
+            "name": "krmanik",
+            "email": "infinyte01@gmail.com",
+            "url": "https://krmanik.github.io"
+        },
+        "license": "MIT",
+        "homepage": "https://github.com/krmanik/ankidroid-js-addon#readme",
+        "dist": {
+            "integrity": "sha512-mWQGk/fCa+GQQwEdlJiZ0OgGh8m5Nxv1C7nbmH5ajAB0T9XG3lziUaXQk/mecNWsec9d9Pm9TfLTkINHpsu87A==",
+            "shasum": "671d693698b7faa1811fe2647b3cab52ebd85405",
+            "tarball": "https://registry.npmjs.org/ankidroid-js-addon-dev-tools/-/ankidroid-js-addon-dev-tools-1.0.3.tgz",
+            "unpackedSize": 550052,
+            "fileCount": 3
+        }
+    },
+    {
+        "name": "ankidroid-js-addon-cedict",
+        "addonTitle": "CC-EDICT",
+        "version": "1.0.1",
+        "description": "Get meaning for selected Hanzi and add to fields",
+        "main": "index.js",
+        "ankidroidJsApi": "0.0.1",
+        "addonType": "note-editor",
+        "icon": "c",
+        "keywords": [
+            "ankidroid-js-addon"
+        ],
+        "author": {
+            "name": "krmanik",
+            "email": "infinyte01@gmail.com",
+            "url": "https://krmanik.github.io"
+        },
+        "license": "MIT",
+        "homepage": "https://github.com/krmanik/ankidroid-js-addon#readme",
+        "dist": {
+            "integrity": "sha512-RaCsAbSE6qslzPL7Srz8k0h3uAU2Ya+XQxHIr8IXSFKPygO0vvEer4lbZAbiNY5o35O9dToeu/tXzWRHAYZYYQ==",
+            "shasum": "35a7021f6884dbe59150ed46b6407ebbe56b4ea4",
+            "tarball": "https://registry.npmjs.org/ankidroid-js-addon-cedict/-/ankidroid-js-addon-cedict-1.0.1.tgz",
+            "unpackedSize": 11631,
+            "fileCount": 5
+        }
+    },
+    {
+        "name": "ankidroid-js-addon-hanzi-to-pinyin",
+        "addonTitle": "Hanzi to Pinyin",
+        "version": "1.0.3",
+        "description": "Convert hanzi to pinyin",
+        "main": "index.js",
+        "ankidroidJsApi": "0.0.1",
+        "addonType": "note-editor",
+        "icon": "\u6587",
+        "keywords": [
+            "ankidroid-js-addon"
+        ],
+        "author": {
+            "name": "krmanik",
+            "email": "infinyte01@gmail.com",
+            "url": "https://krmanik.github.io"
+        },
+        "license": "MIT",
+        "homepage": "https://github.com/krmanik/ankidroid-js-addon#readme",
+        "dist": {
+            "integrity": "sha512-XKpWqMJgUpqaUXHxLRFFlO5vSw4n/4mspE24KdltIqdKLtIi23L4UD3BTu2GXbrKA/rCnJ1HP0aXsNfrT1dLQA==",
+            "shasum": "bd70146417bb1851e4047fe5f03791cb7f4adfe1",
+            "tarball": "https://registry.npmjs.org/ankidroid-js-addon-hanzi-to-pinyin/-/ankidroid-js-addon-hanzi-to-pinyin-1.0.3.tgz",
+            "unpackedSize": 107642,
+            "fileCount": 3
+        }
+    },
+    {
+        "name": "ankidroid-js-addon-subscript",
+        "addonTitle": "Subscript",
+        "version": "1.0.2",
+        "description": "Convert selected text to subscript",
+        "main": "index.js",
+        "ankidroidJsApi": "0.0.1",
+        "addonType": "note-editor",
+        "icon": "s",
+        "keywords": [
+            "ankidroid-js-addon"
+        ],
+        "author": {
+            "name": "krmanik",
+            "email": "infinyte01@gmail.com",
+            "url": "https://krmanik.github.io"
+        },
+        "license": "MIT",
+        "homepage": "https://github.com/krmanik/Anki-Custom-Card-Layout#readme",
+        "dist": {
+            "integrity": "sha512-55V982nOnWp9n2ujV+2BkpTkDx1giGleJjGD/qiK0873alIpHvAlf6TESRd+LSS8ijUkj845LvSjegBvXlrAqg==",
+            "shasum": "b94a0b9ce0f87edc1247b06d1c37faea54ec4c51",
+            "tarball": "https://registry.npmjs.org/ankidroid-js-addon-subscript/-/ankidroid-js-addon-subscript-1.0.2.tgz",
+            "unpackedSize": 1165,
+            "fileCount": 2
+        }
+    },
+    {
+        "name": "valid-ankidroid-js-addon-test",
+        "addonTitle": "Valid AnkiDroid JS Addon",
+        "version": "1.0.1",
+        "description": "This addon will listed in Addon Browser. Also AddonInfo.isValidAnkiDroidAddon return true for this package. For more view. https://github.com/ankidroid/Anki-Android/pull/9232",
+        "main": "index.js",
+        "ankidroidJsApi": "0.0.1",
+        "addonType": "reviewer",
+        "keywords": [
+            "ankidroid-js-addon"
+        ],
+        "author": {
+            "name": "krmanik",
+            "email": "infinyte01@gmail.com",
+            "url": "https://krmanik.github.io"
+        },
+        "license": "MIT",
+        "homepage": "https://github.com/krmanik/ankidroid-js-addon#readme",
+        "dist": {
+            "integrity": "sha512-JwKMl2D8e1UA+ZPhhLA/ebnwsdBKA1xksJJxBAjmYSLwkQrLzsddHchoNLbQL65Jav8syZ8hpISYFcNkolaSCA==",
+            "shasum": "d839a1f9683eea9fcec320234de7f12294700931",
+            "tarball": "https://registry.npmjs.org/valid-ankidroid-js-addon-test/-/valid-ankidroid-js-addon-test-1.0.1.tgz",
+            "unpackedSize": 1195,
+            "fileCount": 3
+        }
+    }
+]
